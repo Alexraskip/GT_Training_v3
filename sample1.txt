@@ -9,4 +9,4 @@ this is comparison lecture
 
 
 this is my first line
-
+ This stash lecture. change in file 1

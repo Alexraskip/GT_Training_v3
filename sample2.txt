@@ -1,5 +1,7 @@
 This is comparison lecture
 
+This is stash lecture
+
 
 
 this is my first line of text
